@@ -13,5 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
-/app/src/main/res/draw*
-/app/src/main/res/mip*
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/gradle.xml
+/.idea/deviceManager.xml
